@@ -43,5 +43,5 @@ The Naive Bayes algorithm was selected for this classification task due to its e
 A front-end interface was developed using Flask to interact with the Naive Bayes classification model. Flask routes were defined to handle user inputs, pass them to the classification model, and display the results.
 
 ## Image Gallery
-![Alt Text](https://github.com/ParthaSarathi-23/Currency-Predictor/blob/main/image/img-1.jpg?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/SPAM_X/blob/main/Img-1.png?raw=true)
 
