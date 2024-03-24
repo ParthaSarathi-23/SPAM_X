@@ -39,5 +39,8 @@ TF-IDF (Term Frequency-Inverse Document Frequency) vectorization was applied to 
 ## Naive Bayes Classification
 The Naive Bayes algorithm was selected for this classification task due to its efficacy in handling text data. Naive Bayes assumes that features are conditionally independent given the class, making it particularly suitable for text classification tasks where the presence of one word may not necessarily affect the presence of another.
 
+## Front End Development with Flask
+A front-end interface was developed using Flask to interact with the Naive Bayes classification model. Flask routes were defined to handle user inputs, pass them to the classification model, and display the results.
+
 
 
